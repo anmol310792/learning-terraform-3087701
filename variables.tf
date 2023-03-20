@@ -16,7 +16,7 @@ variable "ami-filter" {
   }
 }
 
-values "environment" {
+variable "environment" {
   description = "name the environment"
   type = object ({
     name =  string
