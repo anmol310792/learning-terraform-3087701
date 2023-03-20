@@ -25,7 +25,7 @@ values "environment" {
 
   default = {
     name           = "dev"
-    network_prefix = "10.0
+    network_prefix = "10.0"
   }
 }
 
